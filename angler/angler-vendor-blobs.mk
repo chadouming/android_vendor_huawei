@@ -23,8 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/angler/proprietary/lib64/libfilterpack_facedetect.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libfilterpack_facedetect.so \
     vendor/huawei/angler/proprietary/lib64/libimscamera_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libimscamera_jni.so \
     vendor/huawei/angler/proprietary/lib64/libimsmedia_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libimsmedia_jni.so \
-    vendor/huawei/angler/proprietary/lib64/libloc_core.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libloc_core.so \
-    vendor/huawei/angler/proprietary/lib64/libloc_eng.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libloc_eng.so \
     vendor/huawei/angler/proprietary/lib64/libManufacture.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libManufacture.so \
     vendor/huawei/angler/proprietary/lib64/libprotobuf-cpp-full.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libprotobuf-cpp-full.so \
     vendor/huawei/angler/proprietary/lib/libdmengine.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdmengine.so \
@@ -32,8 +30,5 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/angler/proprietary/lib/libfilterpack_facedetect.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libfilterpack_facedetect.so \
     vendor/huawei/angler/proprietary/lib/libimscamera_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libimscamera_jni.so \
     vendor/huawei/angler/proprietary/lib/libimsmedia_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libimsmedia_jni.so \
-    vendor/huawei/angler/proprietary/lib/libloc_core.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libloc_core.so \
-    vendor/huawei/angler/proprietary/lib/libloc_eng.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libloc_eng.so \
-    vendor/huawei/angler/proprietary/lib/libqomx_core.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libqomx_core.so \
     vendor/huawei/angler/proprietary/lib/soundfx/libfmas.so:$(TARGET_COPY_OUT_SYSTEM)/lib/soundfx/libfmas.so
 
