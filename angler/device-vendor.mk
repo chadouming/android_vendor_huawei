@@ -69,3 +69,10 @@ PRODUCT_PACKAGES += \
     libdsi_netctrl \
     libqmiservices \
     libqmi_cci
+	
+# Symlinks Binaries
+  PRODUCT_PACKAGES += \
+	ims_rtp_daemon \
+	imscmservice \
+	imsdatadaemon \
+	imsqmidaemon
