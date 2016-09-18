@@ -71,8 +71,13 @@ PRODUCT_PACKAGES += \
     libqmi_cci
 	
 # Symlinks Binaries
-  PRODUCT_PACKAGES += \
+PRODUCT_PACKAGES += \
 	ims_rtp_daemon \
 	imscmservice \
 	imsdatadaemon \
 	imsqmidaemon
+
+# Symlinks profiles
+PRODUCT_PACKAGES += \
+	dsi_config.xml \
+	netmgr_config.xml
