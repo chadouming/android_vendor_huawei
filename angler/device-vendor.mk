@@ -51,6 +51,8 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DMService \
     CallStatistics \
+	GCS \
+	googleExtServices \
     DiagMon \
     qcrilmsgtunnel \
     CarrierEntitlement \
