@@ -80,4 +80,5 @@ PRODUCT_PACKAGES += \
 # Symlinks profiles
 PRODUCT_PACKAGES += \
 	dsi_config.xml \
-	netmgr_config.xml
+	netmgr_config.xml \
+	izat.conf
